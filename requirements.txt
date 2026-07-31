@@ -4,3 +4,5 @@ seaborn
 matplotlib
 ipykernel
 scipy
+scikit-learn
+mlflow
