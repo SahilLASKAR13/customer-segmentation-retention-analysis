@@ -1,0 +1,23 @@
+artifact_path: file:g:/datamites/new project/customer-segmentation-retention-analysis/notebook/mlruns/1/models/m-e0c7fb976127415897c661b4bdf99dea/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-e0c7fb976127415897c661b4bdf99dea
+model_size_bytes: 8857978
+model_uuid: m-e0c7fb976127415897c661b4bdf99dea
+prompts: null
+run_id: ff896c20f81a43e8a1e45381564240ac
+utc_time_created: '2026-08-03 06:52:19.994275'
