@@ -1,0 +1,18 @@
+[
+  "Recency",
+  "Frequency",
+  "Monetary",
+  "Total_Products_Purchased",
+  "Unique_Products_Purchased",
+  "Avg_Transaction_Value",
+  "Customer_Tenure_Days",
+  "Revenue_Per_Product",
+  "Avg_Days_Between_Purchases",
+  "Std_Days_Between_Purchases",
+  "Purchase_Regularity",
+  "Spending_Trend",
+  "Monthly_Spending_Mean",
+  "Monthly_Spending_Std",
+  "Cancellation_Rate",
+  "Is_UK"
+]
